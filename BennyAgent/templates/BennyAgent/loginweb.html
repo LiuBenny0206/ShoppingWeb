@@ -1,0 +1,15 @@
+{% extends 'LoginBase.html' %}
+
+{% load static %}
+
+{% block content %}
+<div class="white">
+    <h1 class="title">BennyAgent</h1>
+    <form action="{% url 'Login' %}" method="POST">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input class="w3-button" type="submit" value="Login">
+        <input class="w3-button" type="button" value="Register" onclick="window.location.href='{% url 'Register' %}'">
+    </form>
+</div>
+{% endblock %}
