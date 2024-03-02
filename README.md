@@ -1,3 +1,8 @@
+
+![1709345038049_0](https://github.com/LiuBenny0206/ShoppingWeb/assets/109209156/209ec532-df58-4c4e-a8f5-aab18cf3eca0)
+![1709345065982_0](https://github.com/LiuBenny0206/ShoppingWeb/assets/109209156/cebaea41-ea05-4db1-975c-cc63fed8f237)
+![1709345080114_0](https://github.com/LiuBenny0206/ShoppingWeb/assets/109209156/995dd1ca-a09c-4200-a9d1-5c1d032d267d)
+
 Project Name: Benny - Fashion E-commerce Website
 
 Project Description:
